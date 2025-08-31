@@ -17,6 +17,12 @@ This repository documents my learning journey and outputs developed during the i
 - Scientific Report Writing and research communication
 - Critical Thinking under guided mentorship
 
+# **UPDATE**
+Folder R_Fundamentals include Practice R scripts and Assignment 1 and 2.
+1. class_1b.R - Assignment 1
+2. class_1c.R - Syntax in R
+3. class_2.R - Assignment 2
+
 # Contact
 
 If you're working in computational biology, genomics, or anything related to AI in life sciences, I’d love to connect and learn from others in the field.
